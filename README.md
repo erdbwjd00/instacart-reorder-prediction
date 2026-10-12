@@ -7,5 +7,5 @@ Kaggle Instacart 공개 구매 데이터로 고객의 재구매 여부를 예측
 
 ### Result
 - 8 features: AUC 0.827
-- Full feautres: AUC 0.834
+- Full features: AUC 0.834
 - SHAP으로 기여도 파악
